@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602289285 source:/home/eduardo/Documentos/GitHub/Linguagens-de-Programacao/Linguagem C/aula-02/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+

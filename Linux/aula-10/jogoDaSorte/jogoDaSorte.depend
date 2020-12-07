@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1602289285 source:/home/eduardo/Documentos/GitHub/Linguagens-de-Programacao/Linguagem C/aula-02/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1602295915 source:/home/eduardo/Documentos/GitHub/Linguagens-de-Programacao/Linguagem C/aula-03/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+	<maia_gets.h>
+
+1603063504 source:/home/eduardo/Documentos/GitHub/Linguagens-de-Programacao/Linguagem C/aula-04/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+	<maia_gets.h>
+	<gconio.h>
+	"Biblioteca/menus.h"
+
+1603061982 /home/eduardo/Documentos/GitHub/Linguagens-de-Programacao/Linguagem C/aula-04/jogoDaSorte/Biblioteca/menus.h
+
+1603063504 source:/home/eduardo/Documentos/GitHub/Linguagens-de-Programacao/Linguagem C/aula-05/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+	<maia_gets.h>
+	<gconio.h>
+	"Biblioteca/menus.h"
+
+1603065793 /home/eduardo/Documentos/GitHub/Linguagens-de-Programacao/Linguagem C/aula-05/jogoDaSorte/Biblioteca/menus.h
+
+1603758443 source:/home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-06/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+	<maia_gets.h>
+	<gconio.h>
+	<time.h>
+	"Biblioteca/menus.h"
+	"Estruturas/cadastro.h"
+
+1603580313 /home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-06/jogoDaSorte/Biblioteca/menus.h
+
+1603758490 /home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-06/jogoDaSorte/Estruturas/cadastro.h
+
+1603765104 source:/home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-07/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+	<maia_gets.h>
+	<gconio.h>
+	<sys/stat.h>
+	<strings.h>
+	<time.h>
+	"Biblioteca/menus.h"
+	"Estruturas/cadastro.h"
+
+1603580313 /home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-07/jogoDaSorte/Biblioteca/menus.h
+
+1603767785 /home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-07/jogoDaSorte/Estruturas/cadastro.h
+
+1603765104 source:/home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-08/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+	<maia_gets.h>
+	<gconio.h>
+	<sys/stat.h>
+	<strings.h>
+	<time.h>
+	"Biblioteca/menus.h"
+	"Estruturas/cadastro.h"
+
+1603580313 /home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-08/jogoDaSorte/Biblioteca/menus.h
+
+1604099284 /home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-08/jogoDaSorte/Estruturas/cadastro.h
+
+1604838227 source:/home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-09/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+	<maia_gets.h>
+	<gconio.h>
+	<sys/stat.h>
+	<strings.h>
+	<time.h>
+	"Biblioteca/menus.h"
+	"Estruturas/cadastro.h"
+
+1604838227 /home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-09/jogoDaSorte/Biblioteca/menus.h
+
+1604838227 /home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-09/jogoDaSorte/Estruturas/cadastro.h
+
+1604842706 source:/home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-10/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+	<maia_gets.h>
+	<gconio.h>
+	<sys/stat.h>
+	<strings.h>
+	<time.h>
+	"Biblioteca/menus.h"
+	"Estruturas/cadastro.h"
+
+1604842644 /home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-10/jogoDaSorte/Biblioteca/menus.h
+
+1604838227 /home/eduardo/Documentos/GitHub/Linguagem-C/Linguagem C/aula-10/jogoDaSorte/Estruturas/cadastro.h
+

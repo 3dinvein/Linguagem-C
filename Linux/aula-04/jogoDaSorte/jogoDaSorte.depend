@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1602289285 source:/home/eduardo/Documentos/GitHub/Linguagens-de-Programacao/Linguagem C/aula-02/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1602295915 source:/home/eduardo/Documentos/GitHub/Linguagens-de-Programacao/Linguagem C/aula-03/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+	<maia_gets.h>
+
+1603063504 source:/home/eduardo/Documentos/GitHub/Linguagens-de-Programacao/Linguagem C/aula-04/jogoDaSorte/main.c
+	<stdio.h>
+	<stdlib.h>
+	<maia_gets.h>
+	<gconio.h>
+	"Biblioteca/menus.h"
+
+1603061982 /home/eduardo/Documentos/GitHub/Linguagens-de-Programacao/Linguagem C/aula-04/jogoDaSorte/Biblioteca/menus.h
+

@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1457042277 source:c:\users\luiz.eduardo\desktop\projeto c\1-semestre\jogo do bicho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"biblioteca/cadastro.h"
+	"biblioteca/menus.h"
+
+1457043805 c:\users\luiz.eduardo\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\cadastro.h
+	<strings.h>
+	<time.h>
+
+1434473491 c:\users\luiz.eduardo\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\apostas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1434415645 c:\users\luiz.eduardo\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\jogosapostas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+	"apostas.h"
+
+1434474117 source:c:\users\luiz.eduardo\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\menus.c
+
+1457043808 c:\users\luiz.eduardo\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"jogos.h"
+	"tituloMenu.h"
+
+1457040476 c:\users\luiz.eduardo\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\jogos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1434500613 c:\users\luiz.eduardo\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\estruturas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1434492656 source:z:\desktop\projeto c\1-semestre\jogo do bicho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"biblioteca/cadastro.h"
+	"biblioteca/menus.h"
+
+1434984846 z:\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\cadastro.h
+	<strings.h>
+	<time.h>
+
+1434983620 z:\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"jogos.h"
+
+1435069370 z:\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\jogos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1435099107 c:\users\luiz.eduardo\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\cartela.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+
+1457045430 c:\users\luiz.eduardo\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\titulomenu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1457041569 c:\users\luiz.eduardo\desktop\projeto c\1-semestre\jogo do bicho\biblioteca\formatacao.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1457042278 source:d:\jogos\jogo do bicho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"biblioteca/cadastro.h"
+	"biblioteca/menus.h"
+
+1457043806 d:\jogos\jogo do bicho\biblioteca\cadastro.h
+	<strings.h>
+	<time.h>
+
+1457043810 d:\jogos\jogo do bicho\biblioteca\menus.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"jogos.h"
+	"tituloMenu.h"
+
+1457040478 d:\jogos\jogo do bicho\biblioteca\jogos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<time.h>
+
+1457045432 d:\jogos\jogo do bicho\biblioteca\titulomenu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
